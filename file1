@@ -1,8 +1,13 @@
-THis is line 1
+His is line 1
 this line is added in local repo
-this is second line added
 
+
+<<<<<<< HEAD
 parth
+=======
+
+
+>>>>>>> c2cb0fb4881a026eb584069fce17ae6b83f16d06
 
 
 
